@@ -12,8 +12,8 @@ Attack in Rainbow Six: Siege is focused on clearing and taking the objective fro
 
 **Support**
 
-Support is a main support role that focused on opening up lines of sight and gathering intelligence for the rest of their team. Like anchors on defense, support players usually play more slow and methodical.
+Support is a main support role that focuses on opening up lines of sight and gathering intelligence for the rest of their team. Like anchors on defense, support players usually play more slow and methodical.
 
 **Fraggers**
 
-Like roamers, fraggers are often fast characters with less armour. Their playstyles are focused on being fast, as their main job is to eliminate enemy players. By using the information fed to them by their support players, they must use their speed and agility to outwit and outplay defenders.
+Like roamers, fraggers are often fast characters with less armour. Their playstyles focus on being fast, as their main job is to eliminate enemy players. By using the information fed to them by their support players, they must use their speed and agility to outwit and outplay defenders.
